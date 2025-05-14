@@ -1,1 +1,3 @@
-# kafka-spring-boot
+# kafka_spring_boot
+
+So I had studied about Kafka and wanted to try something on how I could implement it using spring boot. Like most of the times I referred youtube and found this simple project which connects Kafka producer and consumer using spring boot. This is really good for understanding how kafka can be used in bigger projects. This repository contains two spring boot projects and one of them acts as a producer and the other than consumer. I had Apache kafka installed on my machine and I could connect it using this. There is a simple REST API which helps to communicate between producer and consumer. 
